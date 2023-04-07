@@ -1,5 +1,5 @@
-# combinatorial-algorithms
-Permutations, Combinations and Variations
+# Combinatorial Algorithms
+Permutations, Combinations and Variations generator
 
 ## Examples
 
